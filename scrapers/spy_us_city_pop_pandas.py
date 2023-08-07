@@ -36,11 +36,6 @@ df
 col_data = table.find_all('tr')
 col_data
 
-#reference_list = ['[a]','[b]','[c]','[d]','[e]','[f]','[g]','[h]','[i]','[j]','[k]','[l]','[m]',
-                  #'[n]','[o]','[p]','[q]','[r]','[s]','[t]','[u]','[v]','[w]','[x]','[y]','[z]',
-                  #'[aa]']
-
-
 # Iterating through all table row data to append to DataFrame        
 for row in col_data[1:]:
     row_data = row.find_all('td')
