@@ -11,7 +11,6 @@ General Information:
 
   
 Each subfolder in this collection will contain:
-1. Both a .py and .ipynb file for each scraper for use in either Jupyter Notebook or another python coding environment (Spyder 5.4.3 IDE was used for .py files).
-2. Documentation of the python scripts
-3. Output .csvs directly from the scraper. Disclaimer: csvs may undergo additional transformations following those performed by the python scripts.
-4. Clean .csvs. These csvs will result from additional transformations in Excel and Power Query Editor unless otherwise stated; the additional transformations will be detailed in file-specific READ-MEs
+1. Both a .py and .ipynb file for each scraper for use in either Jupyter Notebook or another python coding environment (Spyder 5.4.3 IDE was used for .py files). In-file documentation is provided.
+2. Output .csvs directly from the scraper. Disclaimer: csvs may undergo additional transformations following those performed by the python scripts.
+3. Clean .csvs. These csvs will result from additional transformations in Excel and Power Query Editor unless otherwise stated; the additional transformations will be detailed in file-specific READ-MEs
